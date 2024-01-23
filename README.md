@@ -2,9 +2,6 @@
 
  💡 Vous retrouverez ici tous mes projets informatiques effectués dans le cadre de mes études ou de ma passion pour l'informatique. 💡
 
-💬 Actuellement en quête d'un stage pour mettre en pratique mes compétences en Data Science. N'hésitez pas à me contacter pour discuter de projets passionnants ou de collaborations potentielles !
-
-
 🔧 Compétences :
 - 📈 Langages : Python, JS, Java, SQL, C, C++
 - 🧮 Connaissance avancée en BDD (SQL, Modèle relationnel, Intégration de Données, Big Data)
