@@ -3,14 +3,16 @@
  💡 Vous retrouverez ici tous mes projets informatiques effectués dans le cadre de mes études ou de ma passion pour l'informatique. 💡
 
 🔧 Compétences :
-- 📈 Langages : Python, JS, Java, SQL, C, C++
-- 🧮 Connaissance avancée en BDD (SQL, Modèle relationnel, Intégration de Données, Big Data)
-- 📊 Outils pour la Data Science : Jupyter, scikit-learn, Seaborn, Excel
+- 📊 Outils pour la Data Science : Python, scikit-learn, Seaborn, TensorFlow/Keras, Streamlit
 - 💻 Nettoyage et Manipulation de données 
 - 🔍 Machine Learning pour la classification, régression ou clustering
-- 📉 Evaluation et optimisation de modèles
+- 📉 Natural Language Processing
 - 📚 Statistiques et probabilités
+- 🧮 Connaissance avancée en BDD (SQL, PostGre, Intégration de données, Big Data)
+- 📈 Techno : Python, JS, Java, SQL, C, C++, Docker, UNIX, CI/CD
+
+
 
 
 📫 Contact :
-- 📧 Email : loris.mercier@etu.univ-lyon1.fr
+- 📧 Email : loris.mercier01@gmail.com
